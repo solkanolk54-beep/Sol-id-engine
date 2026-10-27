@@ -1,0 +1,6 @@
+{
+  "name": "SOL-ID Engine",
+  "description": "منظومة هندسة البيانات الوراثية وتتبع نمو الماشية والأنساب والاقتصاد الدائري لمنصة SOL Ecosystem",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
